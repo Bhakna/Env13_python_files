@@ -20,3 +20,18 @@ Task 1 :
 You will be given a csv file called "task_1_data.csv". Take the data from the file into your jupyter notebook. Use the data to plot a figure. Using the figure, guess which function the data represents. Use scipy to fit the data into your guess function. Provide the fitted parameters and calculate error. Comment whether your function truly represents the data provided to you.
 
 Task 2 :
+
+Task 3 :
+
+# Submission 
+The deadline for submission is 12 EOD (end of day).
+
+You are supposed to submit only ONE .ipynb file with format "rollno_name_pyhton.ipynb". An example is - "ch22b008_aayush_python.ipynb".
+
+The submitted file should contain all three task solutions. You may beautify the code using 'Markdown' mode if you wish to.
+
+You may search for hints/solutions in the python documentation. (Recommended)
+You may go through research papers or GitHub repos.
+You may use other websites on the internet for hints/solutions.
+
+All the very best.
