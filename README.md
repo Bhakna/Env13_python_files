@@ -31,7 +31,9 @@ You are supposed to submit only ONE .ipynb file with format "rollno_name_pyhton.
 The submitted file should contain all three task solutions. You may beautify the code using 'Markdown' mode if you wish to.
 
 You may search for hints/solutions in the python documentation. (Recommended)
+
 You may go through research papers or GitHub repos.
+
 You may use other websites on the internet for hints/solutions.
 
 All the very best.
