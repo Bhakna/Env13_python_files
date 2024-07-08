@@ -23,7 +23,7 @@ Provide the fitted parameters and calculate error.
 Comment whether your function truly represents the data provided to you.
 
 # Task 2 :
-For your second task, you will be calculating the value of pi using 2D visualization.
+For your second task, you will be calculating the value of pi.
 
 You have to plot an ellipse inside a rectangle as shown below in figure.
 
@@ -43,6 +43,17 @@ Is this method of calculating pi good or bad? Give comments.
 
 
 # Task 3 :
+Your final task, you will be doing 2D visualization of temperature change.
+
+Assume that there are two infinite slabs of some metal kept at a certain distance from each other in vacuum, as shown in figure.
+
+![alt text](https://github.com/Bhakna/Env13_python_files/blob/main/task_3_slabs?raw=true)
+
+The upper slab is at a fixed temperature of 300°C, whereas the lower is at a fixed temperature of 100°C. Assume that the initial temperature of the space in between the two slabs is 0°C.
+
+Visualize how the temperature will change in between the two slabs with time.
+
+You may use any of the python libraries/modules, even those which we have not discussed about.
 
 
 # Submission 
