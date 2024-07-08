@@ -13,7 +13,7 @@ Lesson_5 -> This file gives an intro to numpy arrays and optimization using scip
 Lesson_6 -> This file has code representing linear algebra and matrix manipulation
 
 
-# Task 1 :
+# Task 1 : 20 points
 You will be given a csv file called "task_1_data.csv". Take the data from the file into your jupyter notebook. 
 
 Use the data to plot a figure. Using the figure, guess which function the data represents. Use scipy to fit the data into your guess function. 
@@ -22,7 +22,7 @@ Provide the fitted parameters and calculate error.
 
 Comment whether your function truly represents the data provided to you.
 
-# Task 2 :
+# Task 2 : 30 points
 For your second task, you will be calculating the value of pi.
 
 You have to plot an ellipse inside a rectangle as shown below in figure.
@@ -42,12 +42,12 @@ Repeat this process for different no of points. How does change in no of points 
 Is this method of calculating pi good or bad? Give comments.
 
 
-# Task 3 :
-Your final task, you will be doing 2D visualization of temperature change.
+# Task 3 : 50 points
+For the final task, you will be doing 2D visualization of temperature change.
 
 Assume that there are two infinite slabs of some metal kept at a certain distance from each other in vacuum, as shown in figure.
 
-![alt text](https://github.com/Bhakna/Env13_python_files/blob/main/task_3_slabs?raw=true)
+![alt text](https://github.com/Bhakna/Env13_python_files/blob/main/task_3_slabs.jpeg?raw=true)
 
 The upper slab is at a fixed temperature of 300°C, whereas the lower is at a fixed temperature of 100°C. Assume that the initial temperature of the space in between the two slabs is 0°C.
 
