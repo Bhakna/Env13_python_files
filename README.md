@@ -15,8 +15,8 @@ Lesson_6 -> This file has code representing linear algebra and matrix manipulati
 # Tasks
 There are three tasks for this module.
 
-Task_1
+Task 1 :
 
-You will be given a csv data file. Take the data from the file into your jupyter notebook. Use the data to plot a figure. Using the figure, guess which function the data represents. Use scipy to fit the data into your guess function. Comment whether your function truly represents the data provided to you.
+You will be given a csv file called "task_1_data.csv". Take the data from the file into your jupyter notebook. Use the data to plot a figure. Using the figure, guess which function the data represents. Use scipy to fit the data into your guess function. Provide the fitted parameters and calculate error. Comment whether your function truly represents the data provided to you.
 
-Task_2
+Task 2 :
