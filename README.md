@@ -12,16 +12,25 @@ Lesson_5 -> This file gives an intro to numpy arrays and optimization using scip
 
 Lesson_6 -> This file has code representing linear algebra and matrix manipulation
 
-# Tasks
-There are three tasks for this module.
 
-Task 1 :
+# Task 1 :
+You will be given a csv file called "task_1_data.csv". Take the data from the file into your jupyter notebook. 
 
-You will be given a csv file called "task_1_data.csv". Take the data from the file into your jupyter notebook. Use the data to plot a figure. Using the figure, guess which function the data represents. Use scipy to fit the data into your guess function. Provide the fitted parameters and calculate error. Comment whether your function truly represents the data provided to you.
+Use the data to plot a figure. Using the figure, guess which function the data represents. Use scipy to fit the data into your guess function. 
 
-Task 2 :
+Provide the fitted parameters and calculate error. 
 
-Task 3 :
+Comment whether your function truly represents the data provided to you.
+
+# Task 2 :
+For your second task, you will be calculating the value of pi using 2D visualization.
+
+You have to plot an ellipse inside a rectangle as shown in figure.
+
+![alt text](https://github.com/Bhakna/Env13_python_files/blob/main/task_2_boundary.png?raw=true)
+
+
+# Task 3 :
 
 # Submission 
 The deadline for submission is 12 EOD (end of day).
