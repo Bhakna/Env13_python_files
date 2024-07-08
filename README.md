@@ -25,12 +25,25 @@ Comment whether your function truly represents the data provided to you.
 # Task 2 :
 For your second task, you will be calculating the value of pi using 2D visualization.
 
-You have to plot an ellipse inside a rectangle as shown in figure.
+You have to plot an ellipse inside a rectangle as shown below in figure.
 
 ![alt text](https://github.com/Bhakna/Env13_python_files/blob/main/task_2_boundary.png?raw=true)
 
+Next, you will randomly scatter about 10000 points inside the rectangle. If a point lies inside the ellipse, color it green, otherwise color it red. Afterwards plot the figure again. It should look something like this-
+
+![alt text](https://github.com/Bhakna/Env13_python_files/blob/main/task_2_dotted.png?raw=true)
+
+Calculate the experimental value of pi. [Hint: 'no of points' appx represents 'area covered'] 
+
+What is the error in this value of pi?
+
+Repeat this process for different no of points. How does change in no of points effect the error in value of pi?
+
+Is this method of calculating pi good or bad? Give comments.
+
 
 # Task 3 :
+
 
 # Submission 
 The deadline for submission is 12 EOD (end of day).
