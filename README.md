@@ -57,7 +57,7 @@ You may use any of the python libraries/modules, even those which we have not di
 
 
 # Submission 
-The deadline for submission is 12 EOD (end of day).
+The deadline for submission has been extended to 13 EOD (end of day).
 
 You are supposed to submit only ONE .ipynb file with format "rollno_name_pyhton.ipynb". An example is - "ch22b008_aayush_python.ipynb".
 
