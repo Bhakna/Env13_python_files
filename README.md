@@ -45,7 +45,7 @@ Is this method of calculating pi good or bad? Give comments.
 # Task 3 : 50 points
 For the final task, you will be doing 2D visualization of temperature change.
 
-Assume that there are two infinite slabs of some metal kept at a certain distance from each other in vacuum, as shown in figure.
+Assume that there are two infinite slabs of some metal kept at a certain distance from each other in a medium of your choice (air, water, cement, whatever you want...), as shown in figure.
 
 ![alt text](https://github.com/Bhakna/Env13_python_files/blob/main/task_3_slabs.jpeg?raw=true)
 
